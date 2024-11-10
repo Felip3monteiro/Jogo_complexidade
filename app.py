@@ -10,7 +10,7 @@ def menu():
 @app.route('/start-game')
 def start_game():
     # Use o interpretador Python para executar o script do jogo
-    os.system('main.py')
+    os.system('python game/main.py')
     return "Jogo iniciado"
 
 if __name__ == '__main__':
