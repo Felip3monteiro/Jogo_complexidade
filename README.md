@@ -75,4 +75,66 @@ $ Python3 app.py
 
 
 
+# Checklist
+
+# Fase 1: Análise [Felipe] 
+
+[ Felipe ] Problema selecionado e definido claramente.
+
+[ Felipe ]  Compreensão aprofundada da natureza e desafios do problema.
+
+[ Felipe ] Modelo matemático ou teórico desenvolvido para representar o problema.
+
+# Fase 2: Planejamento [Felipe] 
+
+ [ Felipe ] Objetivos do algoritmo definidos com clareza.
+ 
+ [ Felipe ] Métricas para avaliação de eficiência do algoritmo estabelecidas.
+ 
+ [ Felipe ] Estratégia geral de resolução do problema proposta.
+ 
+ [ Felipe ] Subproblemas identificados e divididos, se aplicável.
+ 
+ [ Felipe ] Estrutura geral do algoritmo esboçada.
+ 
+ [ Felipe ] Casos limite ou situações especiais identificados.
+ 
+ [ Felipe ] Análise teórica realizada para verificar a correção do algoritmo.
+ 
+# Fase 3: Desenho [Felipe] 
+
+ [ Felipe ] Análise de complexidade realizada para avaliar a eficiência teórica do algoritmo.
+ 
+ [ Felipe ] Pontos críticos do algoritmo identificados para otimização, se necessário.
+ 
+# Fase 4: Programação e Teste [Felipe ] 
+
+[ Felipe ] Algoritmo traduzido com precisão em código de programação.
+
+[ Felipe ] Código de programação escrito de forma clara e organizada.
+
+[ Felipe ]  Testes rigorosos realizados em uma variedade de casos de teste.
+
+[ Felipe ] Casos limite e situações especiais testados.
+
+[ Felipe ] Erros e problemas durante o teste de programa identificados e corrigidos.
+
+# Documentação e Avaliação do Projeto [Felipe] 
+
+ [ Felipe ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
+ 
+ [ Felipe ] Documentação revisada para clareza e rigor técnico.
+ 
+ [ Felipe ] Avaliação da eficácia do algoritmo em termos de tempo de execução, uso de recursos e precisão na resolução do problema.
+ 
+ [ Felipe ] Avaliação da colaboração da equipe e cumprimento dos prazos.
+
+# Apresentação e Conclusão do Projeto [Felipe] 
+
+[ Felipe ] Apresentação do projeto preparada com informações claras e objetivas.
+
+[ Felipe ] Conclusões do projeto destacando os resultados e aprendizados.
+
+[ Felipe ] Discussão sobre o projeto e respostas a perguntas da audiência.
+
 
